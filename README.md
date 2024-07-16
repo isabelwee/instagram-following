@@ -2,7 +2,7 @@
 Check if the people you follow on instagram follow you back!
 
 ### external packages
-This program unfortunately uses instaloader, which is a strange confusing package that can't be regularly downloaded into the python library.
+This program unfortunately uses instaloader, which is a strange confusing package that isn't already downloaded into the python library.
 
 To properly download instaloader and run the program follow these steps:
 1. start up a virtual environment:
